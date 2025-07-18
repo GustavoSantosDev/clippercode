@@ -1,0 +1,51 @@
+{
+  "brand": "Cliper Code",
+  "hero": {
+    "title": "We create innovative mobile apps for your business",
+    "subtitle": "We develop and publish our own apps, and also create custom mobile solutions for companies and entrepreneurs.",
+    "cta": "Request your app"
+  },
+  "services": {
+    "title": "What do we do?",
+    "own": {
+      "label": "Own apps",
+      "desc": "We publish our own applications in the main stores, innovating and exploring new ideas."
+    },
+    "third": {
+      "label": "Apps for clients",
+      "desc": "We develop custom mobile apps for companies and entrepreneurs, from idea to launch."
+    }
+  },
+  "portfolio": {
+    "title": "Some of our apps",
+    "app1": {
+      "label": "MiApp Salud",
+      "desc": "Wellness and health app with personalized tracking."
+    },
+    "app2": {
+      "label": "Cliper Notes",
+      "desc": "Quick notes and cloud sync."
+    },
+    "app3": {
+      "label": "EcoViajes",
+      "desc": "Plan sustainable and eco-friendly trips."
+    }
+  },
+  "process": {
+    "title": "How do we work?",
+    "step1": "You tell us your idea or need.",
+    "step2": "We design the solution and present it to you.",
+    "step3": "We develop the app and publish it in the stores.",
+    "step4": "We support you with maintenance and improvements."
+  },
+  "contact": {
+    "title": "Contact us",
+    "name": "Your name",
+    "email": "Your email",
+    "message": "How can we help you?",
+    "send": "Send message",
+    "success": "Message sent! We will contact you soon.",
+    "error": "There was an error sending the message. Please try again."
+  },
+  "footer": "All rights reserved."
+} 

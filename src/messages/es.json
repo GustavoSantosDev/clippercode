@@ -1,0 +1,51 @@
+{
+  "brand": "Cliper Code",
+  "hero": {
+    "title": "Creamos apps móviles innovadoras para tu negocio",
+    "subtitle": "Desarrollamos y publicamos nuestras propias apps, y también creamos soluciones móviles a medida para empresas y emprendedores.",
+    "cta": "Solicita tu app"
+  },
+  "services": {
+    "title": "¿Qué hacemos?",
+    "own": {
+      "label": "Apps propias",
+      "desc": "Publicamos nuestras propias aplicaciones en las principales tiendas, innovando y explorando nuevas ideas."
+    },
+    "third": {
+      "label": "Apps para terceros",
+      "desc": "Desarrollamos apps móviles a medida para empresas y emprendedores, desde la idea hasta la publicación."
+    }
+  },
+  "portfolio": {
+    "title": "Algunas de nuestras apps",
+    "app1": {
+      "label": "MiApp Salud",
+      "desc": "App de bienestar y salud con seguimiento personalizado."
+    },
+    "app2": {
+      "label": "Cliper Notes",
+      "desc": "Notas rápidas y sincronización en la nube."
+    },
+    "app3": {
+      "label": "EcoViajes",
+      "desc": "Planifica viajes sostenibles y ecológicos."
+    }
+  },
+  "process": {
+    "title": "¿Cómo trabajamos?",
+    "step1": "Tú nos cuentas tu idea o necesidad.",
+    "step2": "Diseñamos la solución y te la presentamos.",
+    "step3": "Desarrollamos la app y la publicamos en las tiendas.",
+    "step4": "Te acompañamos con soporte y mejoras."
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "name": "Tu nombre",
+    "email": "Tu email",
+    "message": "¿En qué podemos ayudarte?",
+    "send": "Enviar mensaje",
+    "success": "¡Mensaje enviado! Nos pondremos en contacto pronto.",
+    "error": "Hubo un error al enviar el mensaje. Intenta nuevamente."
+  },
+  "footer": "Todos los derechos reservados."
+} 
